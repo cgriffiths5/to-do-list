@@ -1,0 +1,29 @@
+#submitform {
+    text-align: center;
+}
+
+#inputbutton {
+    border-radius: 5px;
+}
+
+#additembutton {
+    border-radius: 5px;
+}
+
+#clearlistbutton {
+   border-radius: 5px;
+}
+
+#entrycount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#completedtasks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

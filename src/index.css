@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: #e9e2e2;
+}
+
+#title {
+  font-size: 40px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+#description {
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
