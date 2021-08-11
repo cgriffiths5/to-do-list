@@ -1,21 +1,29 @@
-README
+### Title 
 
-#To do list
+to-do-list
 
-This is my first project using React. I hope that this is the start of many React projects. I was motivated to try and build an app using Javascript and the React framework. 
+### Introduction 
 
-I wanted to create a basic Javascript project but adding features to take it to a higher level. 
+This app was a basic attempt at a to-do-list. This was my first non-tutorial based project. 
 
-In addition to this I wanted to then learn how to use Git and Github to learn how to utilize source control. 
+### Link to deployed project
 
-#Installation 
+### `https://cgriffiths5.github.io/to-do-list/`
 
-1) $ git clone { the url to Github Rep}
+### Usage 
 
-2) $ npm install
+Clone repo 
 
-3) $ npm start
+### `git clone https://github.com/cgriffiths5/to-do-list`
 
-#Contributing 
+Go to repo 
 
-Pull requests are welcome
+### `cd to-do-list`
+
+To install the app
+
+### `npm install`
+
+To start the app
+
+### `npm start`
